@@ -8,6 +8,9 @@
   </p>
 
   <p align="center">
+    <a href="https://ttmt-cc-cutom-gems.github.io/wild-mutation-ai-reel-architect-gem/" target="_blank">
+      <img src="https://img.shields.io/badge/Live_Website-0052FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Website" />
+    </a>
     <a href="https://gemini.google.com/gem/1fXbjdjhk6R76rZCL28RPQnE4beyTpYvy?usp=sharing" target="_blank">
       <img src="https://img.shields.io/badge/Try_The_Gem-00FF00?style=for-the-badge&logo=googlegemini&logoColor=black" alt="Try the Gem" />
     </a>
