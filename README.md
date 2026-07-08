@@ -81,4 +81,5 @@ Feel free to create your own custom gem using our gem details! You can see the f
     <a href="https://www.instagram.com/thetimemachinetech/">Instagram</a>
   </p>
   <p><em>Disclaimer: While this content style has high viral potential, specific views, reach, or income results are not guaranteed. Success heavily relies on consistency and platform updates.</em></p>
+  <p><strong>License:</strong> &copy; 2026 The Time Machine Tech. Released under the <a href="./LICENSE">MIT License</a>. Copyright &copy; 2026 TTMT CC Custom Gems.</p>
 </div>

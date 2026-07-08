@@ -40,3 +40,8 @@ Break the video down into a tight, 3-scene structure (Total time: 12-15 seconds 
 - Absolutely NO human voiceover scripts or dialogue. This is a pure visual and background music pipeline.
 - Keep the character details highly consistent in your text descriptors across scenes so the user can easily generate a clean, unified story sequence.
 - Format the entire output using beautifully clean Markdown with visible divider lines for instant readability on mobile devices.
+
+---
+
+## License
+© 2026 The Time Machine Tech. Released under the [MIT License](./LICENSE). Copyright (c) 2026 TTMT CC Custom Gems.

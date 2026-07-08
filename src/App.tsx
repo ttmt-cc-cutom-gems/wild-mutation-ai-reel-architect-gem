@@ -10,12 +10,12 @@ export default function App() {
     <div className="min-h-screen border-0 md:border-[12px] md:border-[#111] selection:bg-[#00FF00]/30 selection:text-[#00FF00] overflow-x-hidden">
       <nav className="border-b border-white/10 p-6 md:p-8">
         <div className="max-w-7xl mx-auto flex items-center justify-between">
-          <div className="flex items-center gap-2">
-             <div className="w-10 h-10 bg-[#00FF00] rounded-sm flex items-center justify-center text-black font-black italic">
-               <Gem className="w-6 h-6" />
+          <a href="https://ttmt-cc-cutom-gems.github.io/wild-mutation-ai-reel-architect-gem/" className="flex items-center gap-2 group">
+             <div className="w-10 h-10 flex items-center justify-center group-hover:scale-110 transition-transform">
+               <span className="text-3xl">🐺</span>
              </div>
-             <span className="text-[10px] md:text-xs font-bold tracking-[0.2em] md:tracking-[0.3em] uppercase">Wild Mutation AI Reel Architect Gem</span>
-          </div>
+             <span className="text-[10px] md:text-xs font-bold tracking-[0.2em] md:tracking-[0.3em] uppercase group-hover:text-[#00FF00] transition-colors">Wild Mutation AI Reel Architect Gem</span>
+          </a>
           <div className="hidden md:flex gap-6 text-[10px] font-semibold tracking-widest uppercase opacity-60">
             <a href="https://github.com/ttmt-cc-cutom-gems/wild-mutation-ai-reel-architect-gem" target="_blank" rel="noreferrer" className="hover:text-[#00FF00] transition-colors">Source Code</a>
             <a href="https://gemini.google.com/gem/1fXbjdjhk6R76rZCL28RPQnE4beyTpYvy?usp=sharing" target="_blank" rel="noreferrer" className="hover:text-[#00FF00] transition-colors">Try the Gem</a>
@@ -72,6 +72,13 @@ export default function App() {
                    <span>Instagram</span>
                  </a>
                </div>
+             </div>
+             <div className="mt-6 text-center">
+               <p className="text-[10px] text-gray-600 max-w-2xl mx-auto leading-relaxed">
+                 &copy; 2026 The Time Machine Tech<br />
+                 Released under the MIT License. Copyright &copy; {new Date().getFullYear()} TTMT CC Custom Gems. <br />
+                 See the <a href="https://github.com/ttmt-cc-cutom-gems/wild-mutation-ai-reel-architect-gem/blob/main/LICENSE" target="_blank" rel="noreferrer" className="underline hover:text-[#00FF00] transition-colors">LICENSE</a> file for details.
+               </p>
              </div>
            </div>
         </div>
