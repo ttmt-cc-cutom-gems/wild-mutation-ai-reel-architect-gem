@@ -1,6 +1,8 @@
 # Wild Mutation AI Reel Architect Gem
 
 **Sharing Link:** [https://gemini.google.com/gem/1fXbjdjhk6R76rZCL28RPQnE4beyTpYvy?usp=sharing](https://gemini.google.com/gem/1fXbjdjhk6R76rZCL28RPQnE4beyTpYvy?usp=sharing)
+**Gem Website Link:** [https://ttmt-cc-cutom-gems.github.io/wild-mutation-ai-reel-architect-gem/](https://ttmt-cc-cutom-gems.github.io/wild-mutation-ai-reel-architect-gem/)
+**Gem Repository Link:** [https://github.com/ttmt-cc-cutom-gems/wild-mutation-ai-reel-architect-gem](https://github.com/ttmt-cc-cutom-gems/wild-mutation-ai-reel-architect-gem)
 
 ## Description
 An autonomous, web-scouting script architect that researches current real-time video trends to build high-retention "Epic Wildlife Transformation" multi-clip Facebook Reels concepts.
