@@ -40,7 +40,7 @@ export default function App() {
                <div className="flex flex-col md:flex-row items-start md:items-center gap-6 lg:flex-shrink-0">
                  <div className="flex items-center gap-4 bg-white/5 p-4 rounded-xl border border-white/10 w-full md:w-auto">
                    <div className="w-12 h-12 rounded-lg bg-[#00FF00]/10 overflow-hidden flex items-center justify-center flex-shrink-0 border border-[#00FF00]/20 p-0.5">
-                     <img src="/ttmt-cc-custom-gems-logo.jpeg" alt="TTMT CC Custom Gems" className="w-full h-full object-cover rounded-md" />
+                     <img src="./ttmt-cc-custom-gems-logo.svg" alt="TTMT CC Custom Gems" className="w-full h-full object-cover rounded-md" />
                    </div>
                    <div className="flex flex-col">
                      <span className="text-[9px] uppercase tracking-widest text-[#00FF00] mb-1">Created By</span>
@@ -54,7 +54,7 @@ export default function App() {
              <div className="flex flex-col md:flex-row justify-between items-start md:items-center gap-6 mt-4 border-t border-white/5 pt-8">
                <div className="flex items-center gap-3">
                  <div className="w-8 h-8 rounded bg-[#00FFFF]/10 border border-[#00FFFF]/20 flex items-center justify-center p-0.5">
-                   <img src="/the-time-machine-tech-logo.jpeg" alt="The Time Machine Tech" className="w-full h-full object-cover" />
+                   <img src="./the-time-machine-tech-logo.svg" alt="The Time Machine Tech" className="w-full h-full object-cover" />
                  </div>
                  <p className="whitespace-nowrap text-sm text-gray-500">&copy; {new Date().getFullYear()} <a href="https://www.youtube.com/@TheTimeMachineTech" target="_blank" rel="noreferrer" className="hover:text-[#00FF00] transition-colors font-medium">The Time Machine Tech</a></p>
                </div>

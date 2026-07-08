@@ -15,7 +15,7 @@ export default function ProofAndScale() {
                 <div className="absolute top-0 right-0 w-32 h-32 bg-[#1877F2]/10 rounded-bl-full blur-2xl"></div>
                 <div className="flex items-center gap-5 mb-6 relative z-10">
                   <div className="w-20 h-20 rounded-full bg-[#1A1A1A] overflow-hidden border-2 border-white/10 group-hover:border-[#1877F2] transition-colors shrink-0">
-                    <img src="/wolf.jpeg" alt="Wild Mutation AI" className="w-full h-full object-cover group-hover:scale-105 transition-all duration-500" />
+                    <img src="./wolf.webp" alt="Wild Mutation AI" className="w-full h-full object-cover group-hover:scale-105 transition-all duration-500" />
                   </div>
                   <div>
                     <h4 className="font-bold text-2xl text-white group-hover:text-[#1877F2] transition-colors">Wild Mutation AI</h4>
