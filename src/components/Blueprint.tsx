@@ -21,7 +21,7 @@ const steps = [
   {
     id: '03',
     title: 'Animation Secrets',
-    subtitle: 'Meta AI Vibes',
+    subtitle: 'Meta\'s Vibes.ai',
     description: 'Grab the image-to-video animation prompts and transform static images into fluid video clips.',
     icon: Video,
     color: 'from-purple-500/20 to-transparent'

@@ -32,7 +32,7 @@ export default function PromotionalVideo() {
           <iframe 
             width="100%" 
             height="100%" 
-            src="https://www.youtube.com/embed/lM_-bgzysgU?si=SV2inJwtTdmqtuaj" 
+            src="https://www.youtube.com/embed/uGNb_ompMfs?si=8YpSYT7UkYwmQOYO" 
             title="YouTube video player" 
             frameBorder="0" 
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
