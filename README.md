@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public/wolf.jpeg" alt="Wild Mutation AI" width="160" height="160" style="border-radius: 50%; box-shadow: 0 0 20px rgba(0, 255, 0, 0.2); margin-bottom: 20px; object-fit: cover;" />
+  <img src="./public/wolf.jpeg" alt="Wild Mutation AI" width="160" height="160" style="border-radius: 50%; box-shadow: 0 0 20px rgba(0, 255, 0, 0.2); margin-bottom: 20px; object-fit: cover;" />
   
   # 🐺 Wild Mutation AI Reel Architect Gem
 
